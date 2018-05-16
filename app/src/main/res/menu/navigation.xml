@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_docx"
+        android:icon="@drawable/ic_docx_nav"
+        android:title="@string/docx" />
+
+    <item
+        android:id="@+id/navigation_pdf"
+        android:icon="@drawable/ic_pdf_nav"
+        android:title="@string/pdf" />
+
+    <item
+        android:id="@+id/navigation_ppt"
+        android:icon="@drawable/ic_ppt_nav"
+        android:title="@string/ppt" />
+
+</menu>
